@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Desafio Hurb Application</string>
+
+    <string name="hotel_name">Hotel name</string>
+    <string name="loading_hotels">Loading hotels ...</string>
+    <string name="loading_hotel">Loading Hotel ...</string>
+    <string name="hotels">Hotels</string>
+    <string name="hotel_list">Hotel List</string>
+    <string name="hotel_description">Hotel Description</string>
+    <string name="hotel_price">Preço</string>
+    <string name="details">Mais detalhes</string>
+</resources>
